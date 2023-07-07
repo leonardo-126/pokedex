@@ -1,0 +1,10 @@
+.box-cont {
+    width: 200px;
+    display: flex;
+    align-items: center;
+}
+
+.box-cont img {
+    height: 30px;
+    margin-right: 1em;
+}
